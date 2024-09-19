@@ -1,0 +1,14 @@
+{
+  "name": "my-jest-webapp",
+  "version": "1.0.0",
+  "description": "A simple web app with unit testing using Jest",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.4",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
